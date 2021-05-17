@@ -1,0 +1,13 @@
+.postsBlock{
+    padding: 15px;
+}
+.posts{
+    margin-top: 10px;
+}
+.buttonclick button{
+    color: rgb(18, 224, 18);
+    border-bottom: hsl(180, 75%, 50%);
+    border-color: yellow;
+    border-style:solid;
+
+}

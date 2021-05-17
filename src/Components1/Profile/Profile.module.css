@@ -1,0 +1,11 @@
+.content{
+  grid-area: c;
+  background-color: rgba(161, 161, 144, 0.788);
+ }
+.content img{
+ width: 95%;
+ padding: 15px;
+}
+.item{
+  color: rgb(87, 94, 55);
+}

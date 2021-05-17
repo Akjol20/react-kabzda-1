@@ -1,0 +1,11 @@
+.item img {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius:100px;
+  border-color: rgb(7, 4, 1);
+  border-style: solid;
+
+}
+.item{
+  color: #020107ec;
+}
